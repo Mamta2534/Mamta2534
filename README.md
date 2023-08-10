@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, its's Mamta Soni 👋 @Mamta2534
+
+>> 🙃 I'm Data Science Student.
+To utilize my knowledge and idea in this field of Data Analytics, the smooth functioning of organization, I realised that, satisfaction is a book of achievement, which holds the learning experience  records of doing, trying, twiddling, getting failed, trying again succeeding in the project. 
+>> 🌱 Machine Learning, Python, Tableau, MySQL, Mathematics & Statistics, Deep Learning.
+
+>> How to reach me
+>> 📧 sonymamta20@gmail.com
+>> My Profile in Linkedin(https://www.linkedin.com/in/mamta-soni-44b279235) 
 
 <!--
 **Mamta2534/Mamta2534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
